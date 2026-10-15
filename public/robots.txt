@@ -1,0 +1,3 @@
+# Disallow all search engine bots from crawling and indexing internal CRM leads & data
+User-agent: *
+Disallow: /
